@@ -3,7 +3,7 @@
 int main(){
     int choix;
 
-    printf("Hello");
+    printf("Gestionnaire de Budget Personnel \n");
     choix = Menu();
     switch (choix)
     {
